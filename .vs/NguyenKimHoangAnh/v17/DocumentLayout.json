@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NguyenKimHoangAnh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|d:\\nguyenkimhoanganh\\nguyenkimhoanganh\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\home\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\home\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|D:\\NguyenKimHoangAnh\\nguyenkimhoanganh\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49106847-7980-401C-ACEF-524FFD588D68}|NguyenKimHoangAnh\\NguyenKimHoangAnh.csproj|solutionrelative:nguyenkimhoanganh\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:53:02.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:47:32.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:07.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:40:19.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwGsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:31:19.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAqwH8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:36.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:36:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:38.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Brand\\index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Views\\Brand\\index.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Brand\\index.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Views\\Brand\\index.cshtml",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAMIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:24:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:38:26.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sidebar.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Sidebar.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Sidebar.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Sidebar.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Sidebar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:14:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:41:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:06:03.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:57:33.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T09:06:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T07:58:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:36:52.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA0CAAAAAAAAAAAgwF8CAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:31:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\CartController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:25.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:18.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:18.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:11.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "NguyenKimHoangAnh\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\NguyenKimHoangAnh\\NguyenKimHoangAnh\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "NguyenKimHoangAnh\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:50:13.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
